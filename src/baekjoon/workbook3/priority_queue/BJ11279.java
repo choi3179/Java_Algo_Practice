@@ -13,7 +13,7 @@ public class BJ11279 {
     public static void main(String[] args) throws IOException {
 
         //Scanner sc = new Scanner(System.in);
-        System.setIn(new FileInputStream("src/day12/hw/input11279.txt"));
+        System.setIn(new FileInputStream("src/baekjoon/workbook3/input11279.txt"));
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(br.readLine());
 
